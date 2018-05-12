@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '4970'
     url: http://www.gutenberg.org/2009/agents/4970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44989#The-Complete-CynicBeing-Bunches-of-Wisdom-Culled-from-the-Calendars-of...
 gutenberg_issued: '2014-02-24'
 gutenberg_type: Text
 identifiers:
