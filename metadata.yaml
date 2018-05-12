@@ -1,0 +1,42 @@
+_repo: The-Complete-CynicBeing-Bunches-of-Wisdom-Culled-from-the-Calendars-of..._44989
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44989-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+  - agent_name: Mizner, Addison
+    alias: Mizner, Addison Cairns
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '43024'
+    url: http://www.gutenberg.org/2009/agents/43024
+  - agent_name: Grant, Ethel Watts Mumford
+    alias: Mumford, Ethel Watts
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '4970'
+    url: http://www.gutenberg.org/2009/agents/4970
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44989'
+  lccn: '10014676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Epigrams, English'
+title: "The Complete Cynic\r\nBeing Bunches of Wisdom Culled from the Calendars of\
+  \ Oliver Herford, Ethel Watts Mumford, Addison Mizner"
+url: http://www.gutenberg.org/ebooks/44989
